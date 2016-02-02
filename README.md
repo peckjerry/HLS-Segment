@@ -34,7 +34,7 @@ FFMpeg is the only external requirement
 
 
 ## LICENSE
-Copyright (c) 2016 huihoo
+Copyright (c) 2016 huihoo	
 Copyright (c) 2014 Stoian Ivanov  
 Copyright (c) 2009 Carson McDonald  
 Copyright (c) 2009 Chase Douglas  
